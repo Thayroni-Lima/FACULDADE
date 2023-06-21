@@ -69,12 +69,13 @@ aside{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    padding: 10px 300px;
+    padding: 10px 0px;
 }
 
 aside>p{
     margin: 0px;
     text-align: center;
+    text-shadow: 1px 1px 3px black;
 }
 
 aside img{
