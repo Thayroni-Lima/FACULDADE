@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    width: 100%;
+    height: calc(100vh - 85px);
+    gap: 100px;
+}
+
+.menu{
+    display: flex;
+    justify-content:space-between ;
+    padding: 0, 5%;
+    align-items: center;
+    height: 85px;
+}
+.left-side-menu{
+    display: flex;
+    gap: 50px;
+    justify-content:flex-start;
+}
+nav, ul, li{
+    display: inline-block;
+    margin-right: 30px;
+}
+nav, ul, li, a{
+    text-decoration: none;
+    color: black;
+}
+.rigth-side-menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.icon-avatar, img{
+    width: 45px;
+}
+.line{
+    height: 1px;
+    background-color:rgb(94, 93, 93);
+    width: 90%;
+    align-self: center;
+}
+.left-side{
+    display: flex;
+    flex-direction:column;
+    width: 100%;
+}
+.items{
+    align-self: flex-end;
+}
+.rigth-side{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.select-image{
+    max-width: 430px;
+    border-radius: 10px;
+}
+.select-image, img{
+    width: 100%;
+}
+.imagens-dos-produtos{
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 470px;
+}
+.thumbnail, img{
+    width: 300px;
+    border-radius: 10px;
+}
+.rigth-side, h6{
+    color: crimson;
+}
+.rigth-side, p{
+    color: black;
+    font-size: 20px;
+}
+.content{
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.preço{
+    color: green;
+    font-size: 16px;
+    font-weight:200;
+}
+.desconto{
+    font-size: 12px;
+    color: red;
+}
+.quantidade{
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    background-color: beige;
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 10px;
+
+}
+.quantidade, span{
+    font-weight: 700;
+    font-size: 12px;
+}
+.menos .mais{
+    cursor:pointer ;
+}
+.botão-carrinho{
+    display: inline-block;
+    text-decoration:none;
+    color: aliceblue;
+    background-color:crimson ;
+    padding: 10px 30px;
+    border-radius:10px ;
+    display: flex;
+    align-items:center;
+    width: fit-content;
+    gap: 5px;
+
+}
+.opções{
+    display: flex;
+    gap:20px;
+}
