@@ -1,4 +1,4 @@
-#Arraiá da TI
+# Arraiá da TI
     Crie uma página (hotsite) para promover um evento fictício, como um show, festival,
     feira ou congresso. É essencial criar um hotsite atraente e informativo. Um hotsite é
     uma página web dedicada exclusivamente ao evento, fornecendo todas as informações
