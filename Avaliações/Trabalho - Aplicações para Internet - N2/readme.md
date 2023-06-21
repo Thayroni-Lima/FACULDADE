@@ -10,7 +10,7 @@
         <ul>
             <li><a href="https://thayroni-lima.github.io/Faculdade/Avalia%C3%A7%C3%B5es/Trabalho%20-%20Aplica%C3%A7%C3%B5es%20para%20Internet%20-%20N2/SITE%20DE%20CULIN%C3%81RIA/index.html" target="_blank" rel="noopener noreferrer">PÁGINA DE RECEITAS por Thayroni Lima</a></li>
             <li><a href="https://thayroni-lima.github.io/Faculdade/Avalia%C3%A7%C3%B5es/Trabalho%20-%20Aplica%C3%A7%C3%B5es%20para%20Internet%20-%20N2/SITE%20DE%20UMA%20LOJA%20DE%20PRODUTOS%20-%20Thayroni/index.html">PÁGINA DE PRODUTOS por Thayroni Lima</a></li>
-            <li><a href="">PÁGINA DE PRODUTOS por Geisielle</a></li>
+            <li><a href="https://mediocrepastapplication.geisiellenascim.repl.co/">PÁGINA DE PRODUTOS por Geisielle</a></li>
             <li><a href="https://thayroni-lima.github.io/Faculdade/Avalia%C3%A7%C3%B5es/Trabalho%20-%20Aplica%C3%A7%C3%B5es%20para%20Internet%20-%20N2/HOTSITE%20PARA%20EVENTO/index.html">HOTSITE por Júlio César (GitHub Pages)</a></li>
             <li><a href="https://beneficialspicyconversions.gamerfanatico.repl.co/">HOTSITE por Júlio César (Replit)</a></li>
         </ul>
