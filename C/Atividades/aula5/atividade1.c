@@ -10,22 +10,22 @@ int main(void){
     setlocale(LC_ALL, "Portuguese_Brazil");
 
     int checa_pos_neg;
-    printf("Digite um nÃºmero qualquer:");
+    printf("Digite um número qualquer:");
     scanf("%d", &checa_pos_neg);
 
     if (checa_pos_neg > 0)
     {
-        printf("O nÃºmero Ã© positivo!");
+        printf("O número é positivo!");
     }
     
     else if (checa_pos_neg<0)
     {
-        printf("O nÃºmero Ã© negativo!");
+        printf("O número é negativo!");
     }
     
     else
     {
-        printf("O nÃºmero Ã© nulo!");
+        printf("O número é nulo!");
     }
 
     system ("pause");
